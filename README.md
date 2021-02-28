@@ -9,7 +9,7 @@ class AlexBlain():
       self.languages = ["R", "Python" "Bash"]
       self.career_aim = "Postdoctural Cancer Researcher"
       self.interests = ["hiking", "rock music", "horror films", "bee immunology"] 
-      self.current_projects = ['PhD project", "100 Days of Code"]
+      self.current_projects = ["PhD project", "100 Days of Code"]
       self.email = "a.e.blain1@newcastle.ac.uk"
       
     def say_hi(self):
