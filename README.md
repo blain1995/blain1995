@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+```
 class AlexBlain():
   def __init__(self):
       self.university = "Newcastle University"
@@ -22,4 +22,6 @@ class AlexBlain():
 
 
 me = AlexBlain()
+
 me.say_hi()
+```
