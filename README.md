@@ -7,14 +7,14 @@ class AlexBlain():
       self.degree_inprogress = "PhD in lymphoma genomics"
       self.pronouns = "she/her"
       self.languages = ["R", "Python","Bash"]
-      self.career_aim = "postdoctural cancer researcher"
+      self.career_aim = "postdoctoral cancer researcher"
       self.interests = ["hiking/weight training", "rock music", "horror films", "bee immunology"] 
       self.current_projects = ["PhD project", "100 Days of Code"]
       self.email = "a.e.blain1@newcastle.ac.uk"
       
     def say_hi(self):
         print(f"""Hi!
-        I'm currently completeing a {self.degree_inprogress} at {self.university} in the UK.
+        I'm currently completing a {self.degree_inprogress} at {self.university} in the UK.
         I would like to become a {self.career_aim}, undertaking projects requiring a mix of lab based and bioinformatics skills.
         During my PhD I have learned {self.languages} and want to continue my coding journey.
         Some of my personal interests include {self.interests} which have been keeping me sane during the pandemic!
