@@ -1,4 +1,4 @@
-### Hi there 👋
+![](https://media.giphy.com/media/c9ndlj2AUhaqk/giphy.gif)
 ```Python
 class AlexBlain():
   def __init__(self):
