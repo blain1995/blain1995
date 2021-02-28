@@ -1,5 +1,5 @@
 ### Hi there 👋
-```
+```Python
 class AlexBlain():
   def __init__(self):
       self.university = "Newcastle University"
