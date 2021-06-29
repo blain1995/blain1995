@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/c9ndlj2AUhaqk/giphy.gif)
+![bear_hi](https://media.giphy.com/media/c9ndlj2AUhaqk/giphy.gif)
 ```Python
 class AlexBlain():
   def __init__(self):
@@ -7,6 +7,7 @@ class AlexBlain():
       self.degree_inprogress = "PhD in lymphoma genomics"
       self.pronouns = "she/her"
       self.languages = ["R", "Python","Bash"]
+      self.additional_skills = ["HTML", "basic CSS"]
       self.career_aim = "postdoctoral cancer researcher"
       self.interests = ["hiking/weight training", "rock music", "horror films", "bee immunology"] 
       self.current_projects = ["PhD project", "100 Days of Code"]
