@@ -26,3 +26,17 @@ me = AlexBlain()
 
 me.say_hi()
 ```
+
+<div style="display: flex; justify-content: space-between; align-items: flex-end;">
+  <img src="https://github-readme-stats.vercel.app/api/?username=blain1995&include_all_commits=true&show_icons=true&theme=gruvbox" width="53%">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blain1995&show_icons=true&theme=merko&layout=compact" width="44%">
+ </div>
+ <br>
+ <!-- <div>
+   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=blain1995&show-icons=true&theme=cobalt&layout=compact)" width="100%">
+ </div> -->
+ <br>
+ <p align="center">
+   Visitor count<br>
+  <img src="https://profile-counter.glitch.me/blain1995/count.svg" />
+</p>
